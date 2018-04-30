@@ -1,5 +1,5 @@
 {
-	domains: [
+	"domains": [
 	    {
 		"id": 1,
 		"description": "EU",
