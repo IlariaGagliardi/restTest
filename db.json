@@ -2,14 +2,12 @@
     {
         "id": 1,
         "description": "EU",
-        //"ldapUrl": "ldap://eu.jnj.com:389",
         "modify": 1,
         "delete": 1
     },
 	{
         "id": 2,
         "description": "EU2",
-        //"ldapUrl": "ldap://eu.jnj.com:389",
         "modify": 1,
         "delete": 1
     }
