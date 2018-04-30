@@ -1,14 +1,16 @@
-[
-    {
-        "id": 1,
-        "description": "EU",
-        "modify": 1,
-        "delete": 1
-    },
-	{
-        "id": 2,
-        "description": "EU2",
-        "modify": 1,
-        "delete": 1
-    }
-]
+{
+	domains: [
+	    {
+		"id": 1,
+		"description": "EU",
+		"modify": 1,
+		"delete": 1
+	    },
+		{
+		"id": 2,
+		"description": "EU2",
+		"modify": 1,
+		"delete": 1
+	    }
+	]
+}
